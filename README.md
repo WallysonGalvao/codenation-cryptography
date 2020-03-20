@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="codenation" title="#codenation" src=".github/codenation.svg" width="250px" />
+    <img alt="codenation" title="#codenation" src=".github/codenation.png" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -25,6 +25,7 @@
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#zap-rodando-projeto">Rodando o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -83,7 +84,7 @@ Entrar na raiz do projeto e rodar o comando:
 $ yarn start
 ```
 
-Feito isso acessar o endereço http://localhost:3333
+Feito isso, acessar o endereço http://localhost:3333
 
 ## :memo: Licença
 
